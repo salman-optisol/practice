@@ -1,1 +1,6 @@
 This is the first line of the file
+
+Frontend technologies:
+1. HTML
+2. CSS
+3. Javascript
